@@ -22,3 +22,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 package-lock.json
+.idea/aws.xml
+.idea/modules.xml
+.idea/now-ui-kit-react.iml
+.idea/vcs.xml
